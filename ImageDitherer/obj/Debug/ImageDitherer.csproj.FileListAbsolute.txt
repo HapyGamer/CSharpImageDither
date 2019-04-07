@@ -1,0 +1,10 @@
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\bin\Debug\ImageDitherer.exe.config
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\bin\Debug\ImageDitherer.exe
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\bin\Debug\ImageDitherer.pdb
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.csprojAssemblyReference.cache
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.Form1.resources
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.Properties.Resources.resources
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.csproj.GenerateResource.cache
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.csproj.CoreCompileInputs.cache
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.exe
+C:\Users\hapym\OneDrive\Documents\Visual Studio 2017\Projects\ImageDitherer\ImageDitherer\obj\Debug\ImageDitherer.pdb
