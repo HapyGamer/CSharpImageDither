@@ -1,2 +1,2 @@
 # CSharpImageDither
-Thanks to Code Train for help!
+Thanks to Code Train for the idea!
